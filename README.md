@@ -1,2 +1,2 @@
 # delta-_demo
-This i spractice project
+This is practice file for Git&GitHub.
